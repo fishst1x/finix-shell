@@ -1,0 +1,17 @@
+ls
+/bin/ls
+date ;  date -r file1 ; cal 9 1752
+ls -l ; ; pwd ; cd ; pwd ; cd test ; ls | wc ; skjsdsf
+ls -l; cat file1 ; whereis ls ; ps u
+ ; ; ;
+ls -l; cat file2; grep Dallas file2
+cd ; du -a | sort -n -r | head -n 10 ; cd test ; touch file5
+pstree ; groups ; 
+whoami ; who ; who | sort
+ps u ; ps --help ; file file1 ; ;
+more file1 | grep file ; which ls ; ps -ef | grep bash
+ls | tail -5 > ls.out ;   
+ls
+more ls.out ; cat city city2
+find . -name "file*" -print ; diff city city2 ; df -h
+ls ; exit ; free -h ; uname -a ; grep 4 file4 ; cat < file1
